@@ -1,0 +1,13 @@
+.dog-lists {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.dog-img {
+    height: 100%;
+    width: 200px;
+    padding: 10px;
+    align-self: center;
+}

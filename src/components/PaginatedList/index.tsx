@@ -1,7 +1,7 @@
 "use client"
 
 import React from "react";
-import {useFetch} from './useFetch-hook';
+import {useFetch} from './hook';
 
 const URL = 'https://jsonplaceholder.typicode.com/todos';
 
