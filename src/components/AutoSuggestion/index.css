@@ -1,0 +1,27 @@
+.list__container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.is-loading {
+    background-color: red;
+}
+
+.search-query {
+    border: 1px solid green;
+    outline: none;
+    color: black;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.list-item {
+    margin: 10px 0;
+    padding: 4px 8px;
+}
